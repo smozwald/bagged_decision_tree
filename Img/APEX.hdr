@@ -1,0 +1,28 @@
+ENVI
+description = {
+/home/thimm/University/Master Thesis/Data/APEX/SubSet_BC}
+samples = 641
+lines   = 512
+bands   = 13
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+byte order = 0
+map info = {Lambert Conformal Conic, 1, 1, 152174.562940009, 167854.06269888, 2.00000000000265, 2.00000000000265}
+projection info = {4, 6378388, 6356911.946127946, 90, 4.367486666666666, 150000.013, 5400088.438, 51.16666723333333, 49.8333339, Lambert Conformal Conic}
+coordinate system string = {PROJCS["Belge_1972_Belgian_Lambert_72",GEOGCS["GCS_Belge 1972",DATUM["D_Belge_1972",SPHEROID["International_1924",6378388,297]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["standard_parallel_1",51.16666723333333],PARAMETER["standard_parallel_2",49.8333339],PARAMETER["latitude_of_origin",90],PARAMETER["central_meridian",4.367486666666666],PARAMETER["false_easting",150000.013],PARAMETER["false_northing",5400088.438],UNIT["Meter",1]]}
+band names = {
+BC1: b1-10,
+BC2: b10-21,
+BC3: b21-54,
+BC4: b54-59,
+BC5: b59-103,
+BC6: b103-108,
+BC7: b108-127,
+BC8: b127-159,
+BC9: b159-218,
+BC10: b218-238,
+BC11: b238-262,
+BC12: b262-267,
+BC13: b267-285}
